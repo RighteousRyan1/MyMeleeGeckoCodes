@@ -1,0 +1,4 @@
+$Instadie [RighteousRyan]
+C2079C6C 00000002 #instadie.asm
+EC2102B2 4E800020
+60000000 00000000

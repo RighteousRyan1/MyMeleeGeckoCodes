@@ -1,0 +1,4 @@
+$Remove Player Names (Slippi) [RighteousRyan]
+*this is outdated since the party mode update
+04664BB4 4800032C #npn_ingame.asm
+04186EC4 60000000 #npn_vssplash.asm

@@ -1,0 +1,4 @@
+$Long Camera Far Plane [RighteousRyan]
+C2369FD4 00000002 #lfp.asm
+EC210072 4E800020
+60000000 00000000
